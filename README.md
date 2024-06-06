@@ -28,6 +28,34 @@ https://ui.shadcn.com/docs/installation/vite
 
 `pnpm dlx shadcn-ui@latest add input label`
 
+<p> Separator </p>
+
+`pnpm dlx shadcn-ui@latest add separator`
+
+<p> Dropdown - toggle </p>
+
+`pnpm dlx shadcn-ui@latest add dropdown-menu`
+
+<p> Skeleton </p>
+
+`pnpm dlx shadcn-ui@latest add skeleton`
+
+<p> Select </p>
+
+`pnpm dlx shadcn-ui@latest add select`
+
+<p> Modal </p>
+
+`pnpm dlx shadcn-ui@latest add dialog`
+
+<p> Card </p>
+
+`pnpm dlx shadcn-ui@latest add card`
+
+<p> Tabelas </p>
+
+`pnpm dlx shadcn-ui@latest add table`
+
 ## Extensão vscode
 
 <p>Postcss</p>
@@ -62,16 +90,19 @@ https://ui.shadcn.com/docs/installation/vite
 
 `pnpm i sonner`
 
-## Separator
+## Gráficos 
 
-`pnpm dlx shadcn-ui@latest add separator`
+`pnpm i recharts`
 
-## Dropdown - toggle
+## Conectar backend com frontend
 
-`pnpm dlx shadcn-ui@latest add dropdown-menu`
+`pnpm i axios`
 
-## Tabelas
+## Zod
 
-`pnpm dlx shadcn-ui@latest add table`
+`pnpm i zod`
 
+## React Query
+
+`pnpm i @tanstack/react-query`
 

@@ -56,6 +56,14 @@ https://ui.shadcn.com/docs/installation/vite
 
 `pnpm dlx shadcn-ui@latest add table`
 
+<p> TextArea </p>
+
+`pnpm dlx shadcn-ui@latest add textarea`
+
+<p> Calender Popover </p>
+
+`pnpm dlx shadcn-ui@latest add calendar popover`
+
 ## Extensão vscode
 
 <p>Postcss</p>
@@ -106,3 +114,22 @@ https://ui.shadcn.com/docs/installation/vite
 
 `pnpm i @tanstack/react-query`
 
+## Date Fns
+
+`pnpm i date-fns`
+
+# Teste unitário
+
+## Vitest
+
+`pnpm add -D vitest`
+
+## Testing library 
+
+`pnpm i @testing-library/react -D`
+
+`pnpm i -D @testing-library/jest-dom`
+
+## Happy Dom
+
+`pnpm i -D happy-dom`
